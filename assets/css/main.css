@@ -3670,3 +3670,8 @@
 			}
 
 	}
+
+
+
+	.inner { display: none; margin-top: 10px; }
+	.inner label { display: none; }
